@@ -9,7 +9,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Preprints
 ---
-<span style="font-size:1.15em;">**Weakly-Supervised Amodal Instance Segmentation with Compositional Priors**</span>  
+<span style="font-size:1.05em;">**Weakly-Supervised Amodal Instance Segmentation with Compositional Priors**</span>  
 <span style="font-size:0.9em;">
 **Yihong Sun**, Adam Kortylewski, Alan Yuille    
 *arXiv:2010.13175*  
@@ -17,7 +17,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 </span>  
 
 ---
-<span style="font-size:1.15em;">**Robust Instance Segmentation through Reasoning about Multi-Object Occlusion**</span>  
+<span style="font-size:1.05em;">**Robust Instance Segmentation through Reasoning about Multi-Object Occlusion**</span>  
 <span style="font-size:0.9em;">
 Xiaoding Yuan, Adam Kortylewski, **Yihong Sun**, Alan Yuille    
 *arXiv:2012.02107*  
@@ -28,7 +28,7 @@ Xiaoding Yuan, Adam Kortylewski, **Yihong Sun**, Alan Yuille
 
 ## Conference
 ---
-<span style="font-size:1.15em;">**Robust Object Detection Under Occlusion With Context-Aware CompositionalNets**</span>  
+<span style="font-size:1.05em;">**Robust Object Detection Under Occlusion With Context-Aware CompositionalNets**</span>  
 <span style="font-size:0.9em;">
 Angtian Wang(\*), **Yihong Sun(\*)**, Adam Kortylewski, Alan Yuille  
 *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020*  
@@ -41,7 +41,7 @@ Angtian Wang(\*), **Yihong Sun(\*)**, Adam Kortylewski, Alan Yuille
 
 ## Journal
 ---
-<span style="font-size:1.15em;">**Compositional Convolutional Neural Networks: A Robust and Interpretable Model for Object Recognition under Occlusion**</span>  
+<span style="font-size:1.05em;">**Compositional Convolutional Neural Networks: A Robust and Interpretable Model for Object Recognition under Occlusion**</span>  
 <span style="font-size:0.9em;">
 Adam Kortylewski, Qing Liu, Angtian Wang, **Yihong Sun**, Alan Yuille    
 *International Journal of Computer Vision (IJCV), 2020*  
