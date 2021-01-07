@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 
-I am currently a third-year undergraduate student at Johns Hopkins University.
+I am currently a third-year undergraduate student at [Johns Hopkins University](https://www.jhu.edu){:style="text-decoration: none"}{:target="_blank"}.

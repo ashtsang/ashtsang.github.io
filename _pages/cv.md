@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Link](http://yihongsun.github.io/files/CV.pdf){:target="_blank"}
+[Link](http://yihongsun.github.io/files/CV.pdf){:style="text-decoration: none"}{:target="_blank"}
 
