@@ -11,7 +11,7 @@ redirect_from:
 
 
 I am currently a third-year undergraduate student at [Johns Hopkins University](https://www.jhu.edu){:style="text-decoration: none"}{:target="_blank"} studying Computer Science, Neuroscience, and Applied Mathematics & Statistics.
-In the end of my freshmen year, I joined [CCVL](https://ccvl.jhu.edu){:style="text-decoration: none"}{:target="_blank"} as an undergraduate researcher, under the supervision of [Dr. Adam Kortylewski](https://adamkortylewski.com){:style="text-decoration: none"} and [Bloomberg Distinguished Professor **Alan Yuille**](http://www.cs.jhu.edu/~ayuille/){:style="text-decoration: none"}{:target="_blank"}.
+In the end of my freshman year, I joined [CCVL](https://ccvl.jhu.edu){:style="text-decoration: none"}{:target="_blank"} as an undergraduate researcher, under the supervision of [Dr. Adam Kortylewski](https://adamkortylewski.com){:style="text-decoration: none"} and [Bloomberg Distinguished Professor **Alan Yuille**](http://www.cs.jhu.edu/~ayuille/){:style="text-decoration: none"}{:target="_blank"}.
 
 My research interests are computer vision and machine learning, especially in integrating phenomenons of biological vision in the advancements of computer vision algorithms. I believe that our understanding of the human brain is inseparable from our ability to create algorithms that mimic it. 
 

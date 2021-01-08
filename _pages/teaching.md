@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Course Assistant"
+title: "Teaching Experience"
 permalink: /teaching/
 author_profile: true
 ---
 
-Undergraduate Teaching Assistant for the CS department at JHU
+Undergraduate Course Assistant for the CS department at JHU
 
 Responsibilities include:  
 1) Holding office hours to provide technical assistance on assignments and improving understanding of course material  
