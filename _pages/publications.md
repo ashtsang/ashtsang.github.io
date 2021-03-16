@@ -16,17 +16,18 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 [[PDF](https://arxiv.org/pdf/2010.13175.pdf){:style="text-decoration: none"}{:target="_blank"}]  
 </span>  
 
----
-<span style="font-size:1.05em;">**Robust Instance Segmentation through Reasoning about Multi-Object Occlusion**</span>  
-<span style="font-size:0.9em;">
-Xiaoding Yuan, Adam Kortylewski, **Yihong Sun**, Alan Yuille    
-*arXiv:2012.02107*  
-[[PDF](https://arxiv.org/pdf/2012.02107.pdf){:style="text-decoration: none"}{:target="_blank"}]  
-</span>  
 
 
 
 ## Conference
+---
+<span style="font-size:1.05em;">**Robust Instance Segmentation through Reasoning about Multi-Object Occlusion**</span>  
+<span style="font-size:0.9em;">
+Xiaoding Yuan, Adam Kortylewski, **Yihong Sun**, Alan Yuille    
+*Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021*  
+[[PDF](https://arxiv.org/pdf/2012.02107.pdf){:style="text-decoration: none"}{:target="_blank"}]  
+</span>  
+
 ---
 <span style="font-size:1.05em;">**Robust Object Detection Under Occlusion With Context-Aware CompositionalNets**</span>  
 <span style="font-size:0.9em;">
