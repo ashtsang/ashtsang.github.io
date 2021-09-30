@@ -15,7 +15,7 @@ In the end of my freshman year, I joined [CCVL](https://ccvl.jhu.edu){:style="te
 
 My research interests are computer vision and machine learning, especially in integrating phenomenons of biological vision in the advancements of computer vision algorithms. I believe that our understanding of the human brain is inseparable from our ability to create algorithms that mimic it. 
 
-If you would like to chat with me, please feel free to drop me an email! 
+If you would like to chat with me, please drop me an email! 
 
 <br/><br/>
 
