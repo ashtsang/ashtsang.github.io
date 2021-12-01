@@ -9,7 +9,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Preprints
 ---
-<span style="font-size:1.05em;">**Weakly-Supervised Amodal Instance Segmentation with Compositional Priors**</span>  
+<span style="font-size:1.05em;">**Amodal Segmentation through Out-of-Task and Out-of-Distribution Generalization with a Bayesian Model**</span>  
 <span style="font-size:0.9em;">
 **Yihong Sun**, Adam Kortylewski, Alan Yuille    
 *arXiv:2010.13175*  
