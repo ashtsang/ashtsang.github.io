@@ -13,6 +13,14 @@ Responsibilities include:
 3) Proctoring and grading exams  
 
 
+## Fall of 2021
+---
+<span style="font-size:1.15em;">**[AS.050.375/675 Probabilistic Models of the Visual Cortex](http://www.cs.jhu.edu/~ayuille/JHUcourses/ProbabilisticModelsOfVisualCognition2021/ProbModelsIndex.html){:style="text-decoration: none"}{:target="_blank"}**</span>  
+***Course Assistant***
+
+**Instructor:** [Dr. Alan Yuille](http://www.cs.jhu.edu/~ayuille/){:style="text-decoration: none"}{:target="_blank"}  
+
+
 ## Spring of 2021
 ---
 <span style="font-size:1.15em;">**[EN.601.226 Data Structures](https://cs226sp21.github.io/index.html){:style="text-decoration: none"}{:target="_blank"}**</span>  
