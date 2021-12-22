@@ -13,7 +13,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 <span style="font-size:0.9em;">
 **Yihong Sun**, Adam Kortylewski, Alan Yuille    
 *arXiv:2010.13175*  
-[[PDF](https://arxiv.org/pdf/2010.13175.pdf){:style="text-decoration: none"}{:target="_blank"}]  
+[[PDF](https://arxiv.org/pdf/2010.13175.pdf){:style="text-decoration: none"}{:target="_blank"}] [[CODE](https://github.com/YihongSun/Bayesian-Amodal){:style="text-decoration: none"}{:target="_blank"}]  
 </span>  
 
 
@@ -25,7 +25,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 <span style="font-size:0.9em;">
 Xiaoding Yuan, Adam Kortylewski, **Yihong Sun**, Alan Yuille    
 *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021*  
-[[PDF](https://arxiv.org/pdf/2012.02107.pdf){:style="text-decoration: none"}{:target="_blank"}]  
+[[PDF](https://arxiv.org/pdf/2012.02107.pdf){:style="text-decoration: none"}{:target="_blank"}] [[CODE](https://github.com/XD7479/Multi-Object-Occlusion){:style="text-decoration: none"}{:target="_blank"}]  
 </span>  
 
 ---

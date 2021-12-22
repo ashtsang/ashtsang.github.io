@@ -25,7 +25,7 @@ If you would like to chat with me, please drop me an email!
 <span style="font-size:0.9em;">
 **Yihong Sun**, Adam Kortylewski, Alan Yuille    
 *arXiv:2010.13175*  
-[[PDF](https://arxiv.org/pdf/2010.13175.pdf){:style="text-decoration: none"}{:target="_blank"}]  
+[[PDF](https://arxiv.org/pdf/2010.13175.pdf){:style="text-decoration: none"}{:target="_blank"}] [[CODE](https://github.com/YihongSun/Bayesian-Amodal){:style="text-decoration: none"}{:target="_blank"}]  
 </span>  
 
 ---
