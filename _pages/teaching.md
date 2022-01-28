@@ -13,6 +13,15 @@ Responsibilities include:
 3) Proctoring and grading exams  
 
 
+## Spring of 2022
+---
+<span style="font-size:1.15em;">**[EN.601.783 Vision as Bayesian Inference](https://www.cs.jhu.edu/~ayuille/JHUcourses/VisionAsBayesianInference2022/601.783.html){:style="text-decoration: none"}{:target="_blank"}**</span>  
+***Course Assistant***
+
+
+**Instructor:** [Dr. Alan Yuille](http://www.cs.jhu.edu/~ayuille/){:style="text-decoration: none"}{:target="_blank"}  
+
+
 ## Fall of 2021
 ---
 <span style="font-size:1.15em;">**[AS.050.375/675 Probabilistic Models of the Visual Cortex](http://www.cs.jhu.edu/~ayuille/JHUcourses/ProbabilisticModelsOfVisualCognition2021/ProbModelsIndex.html){:style="text-decoration: none"}{:target="_blank"}**</span>  
