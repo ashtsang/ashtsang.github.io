@@ -24,7 +24,7 @@ If you would like to chat with me, please drop me an email!
 <span style="font-size:1.05em;">**Amodal Segmentation through Out-of-Task and Out-of-Distribution Generalization with a Bayesian Model**</span>  
 <span style="font-size:0.9em;">
 **Yihong Sun**, Adam Kortylewski, Alan Yuille    
-*arXiv:2010.13175*  
+*Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022*  
 [[PDF](https://arxiv.org/pdf/2010.13175.pdf){:style="text-decoration: none"}{:target="_blank"}] [[CODE](https://github.com/YihongSun/Bayesian-Amodal){:style="text-decoration: none"}{:target="_blank"}]  
 </span>  
 
