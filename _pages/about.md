@@ -10,8 +10,8 @@ redirect_from:
 
 
 
-I am currently a fourth-year undergraduate student at [Johns Hopkins University](https://www.jhu.edu){:style="text-decoration: none"}{:target="_blank"} studying Computer Science, Neuroscience, Applied Mathematics & Statistics, and Cognitive Science.
-In the end of my freshman year, I joined [CCVL](https://ccvl.jhu.edu){:style="text-decoration: none"}{:target="_blank"} as an undergraduate researcher, under the supervision of [Dr. Adam Kortylewski](https://adamkortylewski.com){:style="text-decoration: none"} and [Bloomberg Distinguished Professor **Alan Yuille**](http://www.cs.jhu.edu/~ayuille/){:style="text-decoration: none"}{:target="_blank"}.
+I am an incoming CS PhD Student at [Cornell University](https://www.cornell.edu). I obtained my Bachelor's degree from [Johns Hopkins University](https://www.jhu.edu) where I studied Computer Science, Neuroscience, Applied Mathematics & Statistics, and Cognitive Science.
+During my undergradute studies, I joined [CCVL](https://ccvl.jhu.edu){:style="text-decoration: none"}{:target="_blank"} as a research intern, under the supervision of [Dr. Adam Kortylewski](https://adamkortylewski.com){:style="text-decoration: none"} and [Bloomberg Distinguished Professor **Alan Yuille**](http://www.cs.jhu.edu/~ayuille/){:style="text-decoration: none"}{:target="_blank"}.
 
 My research interests are computer vision and machine learning, especially in integrating phenomenons of biological vision in the advancements of computer vision algorithms. I wish to build vision algorithms that can learn and generalize beyond limitations in the given data.
 
