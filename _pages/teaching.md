@@ -18,19 +18,6 @@ Responsibilities include:
 
 &nbsp;
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
-
-| Time         | Length        | Speed              | Mass         |
-| ------------ | ------------- | ------------------ | ------------ |
-| -Millisecond | Millimetre    | Kilometre per hour | Milligram    |
-| Second       | Centimetre    | Foot per second    | Gram         |
-| Minute       | Inch          | Miles per hour     | Ounce        |
-
 **Spring 2022:** <span style="font-size:1em;">**[EN.601.783 Vision as Bayesian Inference](https://www.cs.jhu.edu/~ayuille/JHUcourses/VisionAsBayesianInference2022/601.783.html){:style="text-decoration: none"}{:target="_blank"}**</span>  
 
 
