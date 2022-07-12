@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Link](http://yihongsun.github.io/files/CV.pdf){:style="text-decoration: none"}{:target="_blank"} [Updated 1/30/2022]
+[Link](http://yihongsun.github.io/files/CV_Yihong_Sun.pdf){:style="text-decoration: none"}{:target="_blank"} [Updated 7/12/2022]
 
