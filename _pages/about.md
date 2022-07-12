@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am an incoming CS PhD Student at [Cornell University](https://www.cornell.edu){:style="text-decoration: none"}{:target="_blank"}. I obtained my Bachelor's degree from [Johns Hopkins University](https://www.jhu.edu){:style="text-decoration: none"}{:target="_blank"} where I studied Computer Science, Neuroscience, Applied Mathematics & Statistics, and Cognitive Science.
+I am an incoming CS PhD Student at [Cornell University](https://www.cornell.edu){:style="text-decoration: none"}{:target="_blank"}{:hover="text-decoration: underline"}. I obtained my Bachelor's degree from [Johns Hopkins University](https://www.jhu.edu){:style="text-decoration: none"}{:target="_blank"} where I studied Computer Science, Neuroscience, Applied Mathematics & Statistics, and Cognitive Science.
 During my undergradute studies, I joined [CCVL](https://ccvl.jhu.edu){:style="text-decoration: none"}{:target="_blank"} as a research intern, under the supervision of [Bloomberg Distinguished Professor Alan Yuille](http://www.cs.jhu.edu/~ayuille/){:style="text-decoration: none"}{:target="_blank"}.
 
 My research interests are computer vision and machine learning, especially in integrating phenomenons of biological vision in the advancements of computer vision algorithms. I wish to build vision algorithms that can learn and generalize beyond limitations in the given data.
@@ -25,7 +25,7 @@ If you would like to chat with me, please drop me an email!
 <span style="font-size:0.9em;">
 **Yihong Sun**, Adam Kortylewski, Alan Yuille    
 *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022*  
-[[PDF](https://arxiv.org/pdf/2010.13175.pdf){:style="text-decoration: none"}{:target="_blank"}] [[CODE](https://github.com/YihongSun/Bayesian-Amodal){:style="text-decoration: none"}{:target="_blank"}]  
+[[arXiv](https://arxiv.org/abs/2010.13175){:style="text-decoration: none"}{:target="_blank"}] [[PDF](https://arxiv.org/pdf/2010.13175.pdf){:style="text-decoration: none"}{:target="_blank"}] [[Code](https://github.com/YihongSun/Bayesian-Amodal){:style="text-decoration: none"}{:target="_blank"}]  
 </span>  
 
 ---
@@ -33,6 +33,6 @@ If you would like to chat with me, please drop me an email!
 <span style="font-size:0.9em;">
 Angtian Wang(\*), **Yihong Sun(\*)**, Adam Kortylewski, Alan Yuille  
 *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020*  
-[[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Robust_Object_Detection_Under_Occlusion_With_Context-Aware_CompositionalNets_CVPR_2020_paper.pdf){:style="text-decoration: none"}{:target="_blank"}] [[VIDEO](https://youtu.be/XalAhF8Bi_0){:style="text-decoration: none"}{:target="_blank"}]  
+[[arXiv](https://arxiv.org/abs/2005.11643){:style="text-decoration: none"}{:target="_blank"}] [[PDF](https://arxiv.org/pdf/2005.11643.pdf){:style="text-decoration: none"}{:target="_blank"}] [[Video](https://youtu.be/XalAhF8Bi_0){:style="text-decoration: none"}{:target="_blank"}]  
 (\*) indicates joint first authors
 </span>  
