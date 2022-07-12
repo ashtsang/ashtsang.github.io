@@ -14,7 +14,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 <span style="font-size:0.9em;">
 **Yihong Sun**, Adam Kortylewski, Alan Yuille    
 *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022*  
-[[PDF](https://arxiv.org/pdf/2010.13175.pdf){:style="text-decoration: none"}{:target="_blank"}] [[CODE](https://github.com/YihongSun/Bayesian-Amodal){:style="text-decoration: none"}{:target="_blank"}]  
+[[arXiv](https://arxiv.org/abs/2010.13175){:style="text-decoration: none"}{:target="_blank"}] [[PDF](https://arxiv.org/pdf/2010.13175.pdf){:style="text-decoration: none"}{:target="_blank"}] [[Code](https://github.com/YihongSun/Bayesian-Amodal){:style="text-decoration: none"}{:target="_blank"}]  
 </span>  
 
 ---
@@ -22,7 +22,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 <span style="font-size:0.9em;">
 Xiaoding Yuan, Adam Kortylewski, **Yihong Sun**, Alan Yuille    
 *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021*  
-[[PDF](https://arxiv.org/pdf/2012.02107.pdf){:style="text-decoration: none"}{:target="_blank"}] [[CODE](https://github.com/XD7479/Multi-Object-Occlusion){:style="text-decoration: none"}{:target="_blank"}]  
+[[arXiv](https://arxiv.org/abs/2012.02107){:style="text-decoration: none"}{:target="_blank"}] [[PDF](https://arxiv.org/pdf/2012.02107.pdf){:style="text-decoration: none"}{:target="_blank"}] [[Code](https://github.com/XD7479/Multi-Object-Occlusion){:style="text-decoration: none"}{:target="_blank"}]  
 </span>  
 
 ---
@@ -30,7 +30,7 @@ Xiaoding Yuan, Adam Kortylewski, **Yihong Sun**, Alan Yuille
 <span style="font-size:0.9em;">
 Angtian Wang(\*), **Yihong Sun(\*)**, Adam Kortylewski, Alan Yuille  
 *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020*  
-[[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Robust_Object_Detection_Under_Occlusion_With_Context-Aware_CompositionalNets_CVPR_2020_paper.pdf){:style="text-decoration: none"}{:target="_blank"}] [[VIDEO](https://youtu.be/XalAhF8Bi_0){:style="text-decoration: none"}{:target="_blank"}]  
+[[arXiv](https://arxiv.org/abs/2005.11643){:style="text-decoration: none"}{:target="_blank"}] [[PDF](https://arxiv.org/pdf/2005.11643.pdf){:style="text-decoration: none"}{:target="_blank"}] [[Video](https://youtu.be/XalAhF8Bi_0){:style="text-decoration: none"}{:target="_blank"}]  
 (\*) indicates joint first authors
 </span>  
 
@@ -43,6 +43,6 @@ Angtian Wang(\*), **Yihong Sun(\*)**, Adam Kortylewski, Alan Yuille
 <span style="font-size:0.9em;">
 Adam Kortylewski, Qing Liu, Angtian Wang, **Yihong Sun**, Alan Yuille    
 *International Journal of Computer Vision (IJCV), 2020*  
-[[PDF](https://rdcu.be/cbdmv){:style="text-decoration: none"}{:target="_blank"}] [[CODE](https://github.com/AdamKortylewski/CompositionalNets){:style="text-decoration: none"}{:target="_blank"}]  
+[[arXiv](https://arxiv.org/abs/2006.15538){:style="text-decoration: none"}{:target="_blank"}] [[PDF](https://rdcu.be/cbdmv){:style="text-decoration: none"}{:target="_blank"}] [[Code](https://github.com/AdamKortylewski/CompositionalNets){:style="text-decoration: none"}{:target="_blank"}]  
 </span>  
 
