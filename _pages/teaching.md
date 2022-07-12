@@ -9,12 +9,7 @@ author_profile: true
 ## Johns Hopkins University
 ---
 
-Undergraduate Course Assistant for the CS department at JHU
-
-Responsibilities include:  
-1) Holding office hours to provide technical assistance on assignments and improving understanding of course material  
-2) Grading assignments for accuracy and understanding with feedbacks  
-3) Proctoring and grading exams  
+Undergraduate Course Assistant for the Department of Computer Science
 
 **Spring 2022:** <span style="font-size:1em;">**[EN.601.783 Vision as Bayesian Inference](https://www.cs.jhu.edu/~ayuille/JHUcourses/VisionAsBayesianInference2022/601.783.html){:style="text-decoration: none"}{:target="_blank"}**</span>  
 
