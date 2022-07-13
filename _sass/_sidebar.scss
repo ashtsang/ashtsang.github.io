@@ -26,7 +26,7 @@
 
 
   @include breakpoint($x-large) {
-    padding-right: 0;
+    padding-right: 10;
   }
 
   h2, h3, h4, h5, h6 {
@@ -86,10 +86,10 @@
     max-width: 300px;
     border-radius: 0%;
 
-    @include breakpoint($large) {
-      padding: 5px;
+//     @include breakpoint($large) {
+//       padding: 5px;
 //       border: 1px solid $border-color;
-    }
+//     }
   }
 }
 
