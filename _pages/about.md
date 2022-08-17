@@ -10,8 +10,8 @@ redirect_from:
 
 
 
-I am an incoming CS PhD Student at [Cornell University](https://www.cornell.edu){:style="text-decoration: none"}{:target="_blank"}. I obtained my Bachelor's degree from [Johns Hopkins University](https://www.jhu.edu){:style="text-decoration: none"}{:target="_blank"} where I studied Computer Science, Neuroscience, Applied Mathematics & Statistics, and Cognitive Science.
-During my undergradute studies, I joined [CCVL](https://ccvl.jhu.edu){:style="text-decoration: none"}{:target="_blank"} as a research intern, under the supervision of [Bloomberg Distinguished Professor Alan Yuille](http://www.cs.jhu.edu/~ayuille/){:style="text-decoration: none"}{:target="_blank"}.
+I am a CS PhD Student at [Cornell University](https://www.cornell.edu){:style="text-decoration: none"}{:target="_blank"}. I obtained my Bachelor's degree from [Johns Hopkins University](https://www.jhu.edu){:style="text-decoration: none"}{:target="_blank"} where I studied Computer Science, Neuroscience, Applied Mathematics & Statistics, and Cognitive Science.
+During my undergradute studies, I worked with [Bloomberg Distinguished Professor Alan Yuille](http://www.cs.jhu.edu/~ayuille/){:style="text-decoration: none"}{:target="_blank"} and [Dr. Adam Kortylewski](https://generativevision.mpi-inf.mpg.de){:style="text-decoration: none"}{:target="_blank"}.
 
 My research interests are computer vision and machine learning, especially in building vision algorithms that can learn from little supervision and generalize to unseen domains.
 
