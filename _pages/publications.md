@@ -5,44 +5,37 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=JD2rFJEAAAAJ&hl=en){:style="text-decoration: none"}{:target="_blank"}.  
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=NZSBQ0kAAAAJ){:style="text-decoration: none"}{:target="_blank"}.  
 
 
-## Conference
+## Patent
 ---
-<span style="font-size:1.05em;">**Amodal Segmentation through Out-of-Task and Out-of-Distribution Generalization with a Bayesian Model**</span>  
+<span style="font-size:1.05em;">**Biopsy Needle Accessory**</span>  
 <span style="font-size:0.9em;">
-**Yihong Sun**, Adam Kortylewski, Alan Yuille    
-*Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022*  
-[[arXiv](https://arxiv.org/abs/2010.13175){:style="text-decoration: none"}{:target="_blank"}] [[PDF](https://arxiv.org/pdf/2010.13175.pdf){:style="text-decoration: none"}{:target="_blank"}] [[Code](https://github.com/YihongSun/Bayesian-Amodal){:style="text-decoration: none"}{:target="_blank"}]  
-</span>  
+Robert Liddell, Deborah Weidman, **Ashley Tsang**, Gohta Aihara, Tatiana Pereira, Bibhav Poudel, Jacob Desman, Katherine Kovrizhkin, Sean Darcy    
+*US Patent 63/249,680, filed Sept. 29, 2022*  
 
----
-<span style="font-size:1.05em;">**Robust Instance Segmentation through Reasoning about Multi-Object Occlusion**</span>  
-<span style="font-size:0.9em;">
-Xiaoding Yuan, Adam Kortylewski, **Yihong Sun**, Alan Yuille    
-*Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021*  
-[[arXiv](https://arxiv.org/abs/2012.02107){:style="text-decoration: none"}{:target="_blank"}] [[PDF](https://arxiv.org/pdf/2012.02107.pdf){:style="text-decoration: none"}{:target="_blank"}] [[Code](https://github.com/XD7479/Multi-Object-Occlusion){:style="text-decoration: none"}{:target="_blank"}]  
-</span>  
 
+
+
+## Preprint
 ---
-<span style="font-size:1.05em;">**Robust Object Detection Under Occlusion With Context-Aware CompositionalNets**</span>  
+<span style="font-size:1.05em;">**Inferring cellular and molecular processes in single-cell data with non-negative matrix factorization using Python, R, and GenePattern Notebook implementations of CoGAPS**</span>  
 <span style="font-size:0.9em;">
-Angtian Wang(\*), **Yihong Sun(\*)**, Adam Kortylewski, Alan Yuille  
-*Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020*  
-[[arXiv](https://arxiv.org/abs/2005.11643){:style="text-decoration: none"}{:target="_blank"}] [[PDF](https://arxiv.org/pdf/2005.11643.pdf){:style="text-decoration: none"}{:target="_blank"}] [[Video](https://youtu.be/XalAhF8Bi_0){:style="text-decoration: none"}{:target="_blank"}]  
+Jeanette Anna Irene Johnson(\*), **Ashley Tsang(\*)**, Jacob T Mitchell, Emily F Davis-Marcisak, Thomas Sherman, Ted Liefeld, Melanie Loth, Loyal Goff, Jacquelyn Zimmerman, Ben Kinny-Köster, Elizabeth Jaffee, Pablo Tamayo, Jill Mesirov, Michael Reich, Elana J Fertig, Genevieve L Stein-O'Brien  
+*bioRxiv, 2022*  
+[[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.07.09.499398){:style="text-decoration: none"}{:target="_blank"}] [[PDF](https://www.biorxiv.org/content/10.1101/2022.07.09.499398.full.pdf){:style="text-decoration: none"}{:target="_blank"}] [[Code](https://github.com/FertigLab/pycogaps){:style="text-decoration: none"}{:target="_blank"}]  
 (\*) indicates joint first authors
-</span>  
 
 
 
 
 ## Journal
 ---
-<span style="font-size:1.05em;">**Compositional Convolutional Neural Networks: A Robust and Interpretable Model for Object Recognition under Occlusion**</span>  
+<span style="font-size:1.05em;">**Adequacy of samples obtained via percutaneous core-needle rebiopsy for EGFR T790M molecular analysis in patients with non-small cell lung cancer following acquired resistance to first-line therapy: A systematic review and meta-analysis**</span>  
 <span style="font-size:0.9em;">
-Adam Kortylewski, Qing Liu, Angtian Wang, **Yihong Sun**, Alan Yuille    
-*International Journal of Computer Vision (IJCV), 2020*  
-[[arXiv](https://arxiv.org/abs/2006.15538){:style="text-decoration: none"}{:target="_blank"}] [[PDF](https://rdcu.be/cbdmv){:style="text-decoration: none"}{:target="_blank"}] [[Code](https://github.com/AdamKortylewski/CompositionalNets){:style="text-decoration: none"}{:target="_blank"}]  
-</span>  
+Bibhav Poudel, Jacob Desman, Gohta Aihara, Deborah I Weidman, **Ashley Tsang**, Katherine Kovrizhkin, Tatiana Pereira, Siddharth Arun, Tejus Pradeep, Shababa Matin, Robert P Liddell  
+*Cancer Treatment and Research Communications, 2021*  
+[[PDF](https://www.sciencedirect.com/science/article/pii/S2468294221001660){:style="text-decoration: none"}{:target="_blank"}]   
+</span> 
 
