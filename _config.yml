@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yihong Sun's Homepage"
+title                    : "Ashley Tsang's Homepage"
 title_separator          : "-"
-name                     : &name "Yihong Sun's Homepage"
-description              : &description "CS PhD Student at Cornell University"
-url                      : https://yihongsun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ashley Tsang's Homepage"
+description              : &description "BME MSE Candidate at Johns Hopkins University"
+url                      : https://ashtsang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yihongsun.github.io"
+repository               : "ashtsang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -73,22 +73,22 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "custom" # false (default), "google", "google-universal", "custom"
+  provider               :  # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Yihong Sun"
+  name             : "Ashley Tsang"
   avatar           : "profile.jpg"
-  bio              : "CS PhD Student at Cornell University"
-  location         : "Ithaca, NY"
+  bio              : "BME MSE Candidate at Johns Hopkins University"
+  location         : "Baltimore, MD"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=JD2rFJEAAAAJ&hl=en"
-  email            : "ys732@cornell.edu"
-  researchgate     : "https://www.researchgate.net/profile/Yihong-Sun-4"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=NZSBQ0kAAAAJ"
+  email            : "atsang5@jhu.edu"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "YihongSun"
+  github           : "ashtsang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "yihongsun"
+  linkedin         : "ashleytsangg"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "YihongSun_"
+  twitter          :
   vine             :
   weibo            :
   xing             :
