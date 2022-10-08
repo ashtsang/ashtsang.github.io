@@ -1,21 +1,12 @@
 ---
 layout: archive
-title: "Teaching Experience"
-permalink: /teaching/
+title: "Professional Experience"
+permalink: /professional/
 author_profile: true
 ---
 
 
-## Cornell University
----
-
-Graduate Teaching Assistant for Bowers CIS College of Computing and Information Science
-
-**Fall 2022:** <span style="font-size:1em;">**[CS4787/5777 Principles of Large-Scale Machine Learning](https://www.cs.cornell.edu/courses/cs4787/2022fa/){:style="text-decoration: none"}{:target="_blank"}**</span> 
-
-
-
-## Johns Hopkins University
+## Johns Hopkins University - Teaching 
 ---
 
 Undergraduate Course Assistant for the Department of Computer Science
