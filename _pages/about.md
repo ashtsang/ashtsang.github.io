@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yihong Sun"
+title: "Ashley Tsang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,10 +10,7 @@ redirect_from:
 
 
 
-I am a CS PhD Student at [Cornell University](https://www.cornell.edu){:style="text-decoration: none"}{:target="_blank"}. I obtained my Bachelor's degree from [Johns Hopkins University](https://www.jhu.edu){:style="text-decoration: none"}{:target="_blank"} where I studied Computer Science, Neuroscience, Applied Mathematics & Statistics, and Cognitive Science.
-During my undergradute studies, I worked with [Bloomberg Distinguished Professor Alan Yuille](http://www.cs.jhu.edu/~ayuille/){:style="text-decoration: none"}{:target="_blank"} and [Dr. Adam Kortylewski](https://generativevision.mpi-inf.mpg.de){:style="text-decoration: none"}{:target="_blank"}.
-
-My research interests are computer vision and machine learning, especially in building vision algorithms that can learn from little supervision and generalize to unseen domains.
+I am a Biomedical Engineering M.S.E. Candidate at [Johns Hopkins University](https://www.jhu.edu){:style="text-decoration: none"}{:target="_blank"}. I obtained my Bachelor's degree from [Johns Hopkins University](https://www.jhu.edu){:style="text-decoration: none"}{:target="_blank"} where I majored in Biomedical Engineering and Computer Science.
 
 If you would like to chat with me, please drop me an email! 
 
@@ -21,18 +18,12 @@ If you would like to chat with me, please drop me an email!
 
 ## Selected Publications
 
-<span style="font-size:1.05em;">**Amodal Segmentation through Out-of-Task and Out-of-Distribution Generalization with a Bayesian Model**</span>  
+<span style="font-size:1.05em;">**Adequacy of samples obtained via percutaneous core-needle rebiopsy for EGFR T790M molecular analysis in patients with non-small cell lung cancer following acquired resistance to first-line therapy: A systematic review and meta-analysis**</span>  
 <span style="font-size:0.9em;">
-**Yihong Sun**, Adam Kortylewski, Alan Yuille    
-*Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022*  
-[[arXiv](https://arxiv.org/abs/2010.13175){:style="text-decoration: none"}{:target="_blank"}] [[PDF](https://arxiv.org/pdf/2010.13175.pdf){:style="text-decoration: none"}{:target="_blank"}] [[Code](https://github.com/YihongSun/Bayesian-Amodal){:style="text-decoration: none"}{:target="_blank"}]  
+Bibhav Poudel, Jacob Desman, Gohta Aihara, Deborah I Weidman, **Ashley Tsang**, Katherine Kovrizhkin, Tatiana Pereira, Siddharth Arun, Tejus Pradeep, Shababa Matin, Robert P Liddell
+*Cancer Treatment and Research Communications, 2021*  
+[[PDF](https://www.sciencedirect.com/science/article/pii/S2468294221001660){:style="text-decoration: none"}{:target="_blank"}]   
 </span>  
 
----
-<span style="font-size:1.05em;">**Robust Object Detection Under Occlusion With Context-Aware CompositionalNets**</span>  
-<span style="font-size:0.9em;">
-Angtian Wang(\*), **Yihong Sun(\*)**, Adam Kortylewski, Alan Yuille  
-*Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020*  
-[[arXiv](https://arxiv.org/abs/2005.11643){:style="text-decoration: none"}{:target="_blank"}] [[PDF](https://arxiv.org/pdf/2005.11643.pdf){:style="text-decoration: none"}{:target="_blank"}] [[Video](https://youtu.be/XalAhF8Bi_0){:style="text-decoration: none"}{:target="_blank"}]  
-(\*) indicates joint first authors
-</span>  
+--
+
