@@ -10,9 +10,11 @@ redirect_from:
 
 
 
-I am a Biomedical Engineering M.S.E. Candidate at [Johns Hopkins University](https://www.jhu.edu){:style="text-decoration: none"}{:target="_blank"}. I obtained my Bachelor's degree from [Johns Hopkins University](https://www.jhu.edu){:style="text-decoration: none"}{:target="_blank"} where I majored in Biomedical Engineering and Computer Science.
+I am a Biomedical Engineering M.S.E. Candidate at [Johns Hopkins University](https://www.jhu.edu){:style="text-decoration: none"}{:target="_blank"}. I obtained my Bachelor's degree from [Johns Hopkins University](https://www.jhu.edu){:style="text-decoration: none"}{:target="_blank"} in May 2022 where I majored in Biomedical Engineering and Computer Science.
 
-If you would like to chat with me, please drop me an email! 
+I am passionate about developing computational algorithms and tools that improve healthcare and medicine, particularly in advancing cancer understanding and care, and am interested in work that directly translates to clinical usage.
+
+Please feel free to send me an email if you'd like to chat more!
 
 <br/><br/>
 
