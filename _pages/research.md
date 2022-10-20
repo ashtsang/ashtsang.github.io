@@ -6,19 +6,19 @@ author_profile: true
 ---
 
 
-## Research Experience 1
+## Wirtz/Wu Lab @ JHU
 ---
 
 Undergraduate Research Assistant at ?? Lab
 
 
-## Research Experience 2
+## Fertig Lab @ JHU
 ---
 
 Undergraduate Research Assistant at ?? Lab
 
 
-## Research Experience 3
+## Malone Center for Engineering in Healthcare @ JHU
 ---
 
 Undergraduate Research Assistant at ?? Lab
