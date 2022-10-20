@@ -17,11 +17,12 @@ I co-founded PneuTech in Fall 2019 along with a team of 7 biomedical engineering
 
 <span style="font-size:1.05em;">**Achievements and Press**</span>  
 <span style="font-size:0.9em;">
-- [Rice Business Plan Competition 2022](https://rbpc.rice.edu/2022){:style="text-decoration: none"}{:target="_blank"} Semi-Finalists. Selected as 1/42 teams out of 400+ applicants. 
-- [VentureWell E-Team Program](https://venturewell.org/spring-2022-eteam-cohort/){:style="text-decoration: none"}{:target="_blank"} Spring 2022 Cohort. 
-- Carnegie Mellon University Venture Challenge 2022 1st Place Winner.
-- Johns Hopkins Business Plan Competition 2021 2nd Place Winner.
-- Johns Hopkins FastForward Fuel Demo Day 2021 Runner-Up Winner.
+[Rice Business Plan Competition](https://rbpc.rice.edu/){:style="text-decoration: none"}{:target="_blank"} 2022 Semi-Finalists. 
+[VentureWell E-Team Program](https://venturewell.org/spring-2022-eteam-cohort/){:style="text-decoration: none"}{:target="_blank"} Spring 2022 Cohort. 
+[Carnegie Mellon University Venture Challenge](https://www.cmuvc.com/){:style="text-decoration: none"}{:target="_blank"} 2021 1st Place Winner.
+[Johns Hopkins Business Plan Competition](https://hopstart.jhu.edu/){:style="text-decoration: none"}{:target="_blank"} 2021 2nd Place Winner.
+[Johns Hopkins FastForward Fuel Demo Day](https://ventures.jhu.edu/programs-services-fastforward-u-resources-events-ffuvirtualdemoday-2021/){:style="text-decoration: none"}{:target="_blank"} 2021 Runner-Up Winner.
+[Innovators of Progress](https://innovatorsofprogress.org/){:style="text-decoration: none"}{:target="_blank"} 2021 Cohort. 
 
 **Links**
 
