@@ -12,8 +12,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ---
 <span style="font-size:1.05em;">**Biopsy Needle Accessory**</span>  
 <span style="font-size:0.9em;">
-Robert Liddell, Deborah Weidman, **Ashley Tsang**, Gohta Aihara, Tatiana Pereira, Bibhav Poudel, Jacob Desman, Katherine Kovrizhkin, Sean Darcy    
-*US Patent 63/249,680, filed Sept. 29, 2022*  
+Robert Liddell, Deborah Weidman, **Ashley Tsang**, Gohta Aihara, Tatiana Pereira, Bibhav Poudel, Jacob Desman, Katherine Kovrizhkin, Sean Darcy, Jinghua Zhang, Shababa Matin    
+*PCT US2022/077146, filed Sept. 29, 2022*  
 
 
 
@@ -27,8 +27,9 @@ Jeanette Anna Irene Johnson(\*), **Ashley Tsang(\*)**, Jacob T Mitchell, Emily F
 [[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.07.09.499398){:style="text-decoration: none"}{:target="_blank"}] [[PDF](https://www.biorxiv.org/content/10.1101/2022.07.09.499398.full.pdf){:style="text-decoration: none"}{:target="_blank"}] [[Code](https://github.com/FertigLab/pycogaps){:style="text-decoration: none"}{:target="_blank"}]  
 (\*) indicates joint first authors
 
-
-
+<span style="font-size:1.05em;">**Deep Learning Model for Static Ocular Torsion Detection Using Synthetically Generated Fundus Images**</span>  
+<span style="font-size:0.9em;">
+Chen Wang, Yunong Bai, **Ashley Tsang**, Yuhan Bian, Yifan Gou, Yan X. Lin, Matthew Zhao, Tony Y. Wei, Jacob M. Desman, Casey Overby Taylor, Joseph L. Greenstein, Jorge Otero-Millan, Tin Yan Alvin Liu, Amir Kheradmand, David S. Zee, Kemar E. Green
 
 ## Journal
 ---
