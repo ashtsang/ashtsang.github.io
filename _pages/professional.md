@@ -5,7 +5,7 @@ permalink: /professional/
 author_profile: true
 ---
 
-## PneuTech - Medical Device Startup 
+## [PneuTech](http://www.pneutechmed.com/){:style="text-decoration: none"}{:target="_blank"} - Medical Device Startup 
 ---
 <span style="font-size:1.05em;">**Overview**</span>  
 <span style="font-size:0.9em;">
@@ -13,7 +13,7 @@ Co-founder and lead of [PneuTech](http://www.pneutechmed.com/){:style="text-deco
 
 <span style="font-size:1.05em;">**Background**</span>  
 <span style="font-size:0.9em;">
-I co-founded PneuTech in Fall 2019 along with a team of 7 biomedical engineering students as part of the [JHU Biomedical Engineering Undergraduate Design Team Program](https://www.bme.jhu.edu/academics/bme-design/undergraduate-design-team/){:style="text-decoration: none"}{:target="_blank"}. We were approached by [Dr. Robert Liddell](https://www.hopkinsmedicine.org/profiles/details/robert-liddell){:style="text-decoration: none"}{:target="_blank"}, an interventional radiologist from [Johns Hopkins Hospital](https://www.hopkinsmedicine.org/the_johns_hopkins_hospital/){:style="text-decoration: none"}{:target="_blank"}, who was facing challenges with the current standard of care biopsy needle and procedure. Since completing the Design Team Course in Spring 2020, we spunout to become PneuTech, and have since raised over $45k in non-dilutive funding and are on track for completing animal studies in 2023.
+I co-founded PneuTech in Fall 2019 along with a team of 7 biomedical engineering students as part of the [JHU Biomedical Engineering Undergraduate Design Team Program](https://www.bme.jhu.edu/academics/bme-design/undergraduate-design-team/){:style="text-decoration: none"}{:target="_blank"}. We were approached by [Dr. Robert Liddell](https://www.hopkinsmedicine.org/profiles/details/robert-liddell){:style="text-decoration: none"}{:target="_blank"}, an interventional radiologist from [Johns Hopkins Hospital](https://www.hopkinsmedicine.org/the_johns_hopkins_hospital/){:style="text-decoration: none"}{:target="_blank"}, who was facing challenges with the current standard of care biopsy needle and procedure. Since completing the Design Team Course in Spring 2020, we spun out to become PneuTech, and have since raised over $45k in non-dilutive funding and are on track for completing animal studies in 2023.
 
 <span style="font-size:1.05em;">**Achievements**</span>  
 <span style="font-size:0.9em;">
@@ -38,4 +38,5 @@ Feature in Technical.ly Newsletter: [Meet the local student-founders in the new 
 
 Undergraduate Course Assistant for the Department of Applied Mathematics and Statistics
 
-**Fall 2020:** EN.553.171 Discrete Mathematics
+**Fall 2020:** EN.553.171 Discrete Mathematics  
+Held teaching assistant responsibilities, including planning and leading weekly discussion sections, holding office hours, and grading student assignments and exams.
