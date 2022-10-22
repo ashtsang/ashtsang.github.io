@@ -13,7 +13,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 <span style="font-size:1.05em;">**Biopsy Needle Accessory**</span>  
 <span style="font-size:0.9em;">
 Robert Liddell, Deborah Weidman, **Ashley Tsang**, Gohta Aihara, Tatiana Pereira, Bibhav Poudel, Jacob Desman, Katherine Kovrizhkin, Sean Darcy, Jinghua Zhang, Shababa Matin    
-*PCT US2022/077146, filed Sept. 29, 2022*  
+*PCT US2022/077146, filed Sept. 29, 2022. Patent Pending.*  
 
 
 
