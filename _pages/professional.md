@@ -33,7 +33,7 @@ Introduction Animation: [Watch the 1st Place Fall 2019 Design Team Video](https:
 Feature in Technical.ly Newsletter: [Meet the local student-founders in the new Innovators of Progress cohort](https://technical.ly/startups/innovators-of-progress-cohort/){:style="text-decoration: none"}{:target="_blank"}  
 
   
-## Johns Hopkins University - Teaching 
+## Johns Hopkins University 
 ---
 
 Undergraduate Course Assistant for the Department of Applied Mathematics and Statistics
