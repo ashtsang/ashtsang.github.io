@@ -36,6 +36,13 @@ Feature in Technical.ly Newsletter: [Meet the local student-founders in the new 
 ## Johns Hopkins University 
 ---
 
+<span style="font-size:1.05em;">**[Delineo](https://covidweb.isi.jhu.edu/about){:style="text-decoration: none"}{:target="_blank"}**</span>  
+<span style="font-size:0.9em;">
+Led team of 17 JHU students to develop localized prediction model for the spread of COVID-19  
+Leveraged machine learning methods to predict disease spread using large geolocation datasets
+  
+<span style="font-size:1.05em;">**Teaching**</span>  
+<span style="font-size:0.9em;">
 Undergraduate Course Assistant for the Department of Applied Mathematics and Statistics
 
 **Fall 2020:** EN.553.171 Discrete Mathematics  
