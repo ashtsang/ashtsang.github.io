@@ -9,8 +9,10 @@ author_profile: true
 ## [Wirtz/Wu Lab](https://wirtzlab.johnshopkins.edu/){:style="text-decoration: none"}{:target="_blank"} @ JHU 
 ---
 
-**Background:** Assessing histopathology slides is critical for diagnosing and researching cancer, but is challenging and time consuming for expert pathologists. While integrating deep learning in the field of pathology is promising, there are many challenges in data variability, annotation availability, and generalizability that stand in the way of adoption to the clinic.  
-**My Work:** In my project, I am developing deep learning algorithms and a workflow for instance segmentation of immune cells and tissue subtypes in histopathology slides, with only sparse labels available. Specifically, we are collaborating with pathologists from Johns Hopkins Hospital to analyze precursor lesions of ovarian cancer.  
+<span style="font-size:1.05em;">**Background:**</span>  
+<span style="font-size:0.9em;"> Assessing histopathology slides is critical for diagnosing and researching cancer, but is challenging and time consuming for expert pathologists. While integrating deep learning in the field of pathology is promising, there are many challenges in data variability, annotation availability, and generalizability that stand in the way of adoption to the clinic.  
+<span style="font-size:1.05em;">**My work:**</span>  
+<span style="font-size:0.9em;"> In my project, I am developing deep learning algorithms and a workflow for instance segmentation of immune cells and tissue subtypes in histopathology slides, with only sparse labels available. Specifically, we are collaborating with pathologists from Johns Hopkins Hospital to analyze precursor lesions of ovarian cancer.  
 
 
 ## [Stein-O'Brien Lab](http://www.steinobrienlab.org/){:style="text-decoration: none"}{:target="_blank"} @ JHU 
