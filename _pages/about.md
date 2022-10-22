@@ -10,9 +10,9 @@ redirect_from:
 
 
 
-I am a Biomedical Engineering M.S.E. Candidate at [Johns Hopkins University](https://www.jhu.edu){:style="text-decoration: none"}{:target="_blank"}. I obtained my Bachelor's degree from [Johns Hopkins University](https://www.jhu.edu){:style="text-decoration: none"}{:target="_blank"} in May 2022 where I majored in Biomedical Engineering and Computer Science.
+I am a Biomedical Engineering M.S.E. Candidate at [Johns Hopkins University](https://www.jhu.edu){:style="text-decoration: none"}{:target="_blank"}. I obtained my Bachelor's degree from [Johns Hopkins University](https://www.jhu.edu){:style="text-decoration: none"}{:target="_blank"} in 2022 where I majored in Biomedical Engineering and Computer Science.
 
-I am passionate about developing computational algorithms and tools that improve healthcare and medicine, particularly in advancing cancer understanding and care, and am interested in work that directly translates to clinical usage.
+I am passionate about developing computational algorithms and tools that improve healthcare and medicine, particularly in advancing cancer research and care, and am interested in work that directly translates to clinical usage.
 
 Please feel free to send me an email if you'd like to chat more!
 
@@ -22,14 +22,14 @@ Please feel free to send me an email if you'd like to chat more!
 
 <span style="font-size:1.05em;">**Biopsy Needle Accessory**</span>  
 <span style="font-size:0.9em;">
-Robert Liddell, Deborah Weidman, **Ashley Tsang**, Gohta Aihara, Tatiana Pereira, Bibhav Poudel, Jacob Desman, Katherine Kovrizhkin, Sean Darcy    
-*US Patent 63/249,680, filed Sept. 29, 2022*  
+Robert Liddell, Deborah Weidman, **Ashley Tsang**, Gohta Aihara, Tatiana Pereira, Bibhav Poudel, Jacob Desman, Katherine Kovrizhkin, Sean Darcy, Jinghua Zhang, Shababa Matin      
+*PCT US2022/077146, filed Sept. 29, 2022. Patent Pending.*  
   
 ---  
 <span style="font-size:1.05em;">**Inferring cellular and molecular processes in single-cell data with non-negative matrix factorization using Python, R, and GenePattern Notebook implementations of CoGAPS**</span>  
 <span style="font-size:0.9em;">
 Jeanette Anna Irene Johnson(\*), **Ashley Tsang(\*)**, Jacob T Mitchell, Emily F Davis-Marcisak, Thomas Sherman, Ted Liefeld, Melanie Loth, Loyal Goff, Jacquelyn Zimmerman, Ben Kinny-Köster, Elizabeth Jaffee, Pablo Tamayo, Jill Mesirov, Michael Reich, Elana J Fertig, Genevieve L Stein-O'Brien  
-*bioRxiv, 2022*  
+*Under review at Nature Protocols, 2022*  
 [[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.07.09.499398){:style="text-decoration: none"}{:target="_blank"}] [[PDF](https://www.biorxiv.org/content/10.1101/2022.07.09.499398.full.pdf){:style="text-decoration: none"}{:target="_blank"}] [[Code](https://github.com/FertigLab/pycogaps){:style="text-decoration: none"}{:target="_blank"}]  
 (\*) indicates joint first authors
  
