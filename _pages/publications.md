@@ -31,7 +31,7 @@ Jeanette Anna Irene Johnson(\*), **Ashley Tsang(\*)**, Jacob T Mitchell, Emily F
 <span style="font-size:0.9em;">
 Chen Wang, Yunong Bai, **Ashley Tsang**, Yuhan Bian, Yifan Gou, Yan X. Lin, Matthew Zhao, Tony Y. Wei, Jacob M. Desman, Casey Overby Taylor, Joseph L. Greenstein, Jorge Otero-Millan, Tin Yan Alvin Liu, Amir Kheradmand, David S. Zee, Kemar E. Green  
 *Under review at Translational Vision Science and Technology, 2022*  
-{% include base_path %}[PDF](http://ashtsang.github.io/files/Deep Learning Model for Static Ocular Torsion Detection Using Synthetic Fundus Images.pdf){:style="text-decoration: none"}{:target="_blank"}
+{% include base_path %}[[PDF](http://ashtsang.github.io/files/Deep Learning Model for Static Ocular Torsion Detection Using Synthetic Fundus Images.pdf){:style="text-decoration: none"}{:target="_blank"}]
   
 
 ## Journal
