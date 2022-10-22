@@ -17,14 +17,14 @@ author_profile: true
 ---
 
 **Background:** Dimensionality reduction is important for interpreting high-dimensional single-cell data. However, validation and interpretation of learned patterns is difficult without ground truth.  
-**My Work:** In my project, I am developing an analysis using projectR, a package for transfer learning on single-cell datasets. Specifically, I am working on transferring learned patterns from mice to humans in order to validate learned patterns and derive new insights into breast cancer metastasis. 
+**My Work:** In my project, I am developing an analysis using [projectR](https://pubmed.ncbi.nlm.nih.gov/32167521/){:style="text-decoration: none"}{:target="_blank"}, a package for transfer learning on single-cell datasets. Specifically, I am working on transferring learned patterns from mice to humans in order to validate learned patterns and derive new insights into breast cancer metastasis. 
 
 
 ## [Fertig Lab](https://fertiglab.com/){:style="text-decoration: none"}{:target="_blank"} @ JHU 
 ---
   
 **Background:** Non-negative matrix factorization is well suited to high-throughput technology, but can be tricky to infer and interpret.  
-**My Work:** In my project, I created PyCoGAPS, a Python implementation of CoGAPS which is a Bayesian NMF algorithm for gene set analysis. PyCoGAPS enahnces runtime for large datasets, and additional workflows I developed with Docker and GenePattern facilitate user-friendly interpretation and implementation of NMF for single-cell analyses. 
+**My Work:** In my project, I created [PyCoGAPS](https://www.biorxiv.org/content/10.1101/2022.07.09.499398v1){:style="text-decoration: none"}{:target="_blank"}, a Python implementation of [CoGAPS](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03796-9){:style="text-decoration: none"}{:target="_blank"} which is a Bayesian NMF algorithm for gene set analysis. PyCoGAPS enahnces runtime for large datasets, and additional workflows I developed with Docker and GenePattern facilitate user-friendly interpretation and implementation of NMF for single-cell analyses. 
 
 
 ## [Malone Center for Engineering in Healthcare](https://malonecenter.jhu.edu/){:style="text-decoration: none"}{:target="_blank"} @ JHU 
