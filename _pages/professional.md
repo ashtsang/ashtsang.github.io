@@ -38,12 +38,8 @@ Feature in Technical.ly Newsletter: [Meet the local student-founders in the new 
 
 <span style="font-size:1.05em;">**[Delineo](https://covidweb.isi.jhu.edu/about){:style="text-decoration: none"}{:target="_blank"}**</span>  
 <span style="font-size:0.9em;">
-Led team of 17 JHU students to develop localized prediction model for the spread of COVID-19  
-Leveraged machine learning methods to predict disease spread using large geolocation datasets
+Founding member and co-lead of [Delineo](https://covidweb.isi.jhu.edu/about){:style="text-decoration: none"}{:target="_blank"}, dedicated to developing personalized prediction and interactive simulation models for the spread of COVID-19. I co-led a software development team of 17 multidisciplinary JHU students, where we leveraged machine learning methods to predict disease spread using census data and mobile geolocation data. 
   
 <span style="font-size:1.05em;">**Teaching**</span>  
 <span style="font-size:0.9em;">
-Undergraduate Course Assistant for the Department of Applied Mathematics and Statistics
-
-**Fall 2020:** EN.553.171 Discrete Mathematics  
-Held teaching assistant responsibilities, including planning and leading weekly discussion sections, holding office hours, and grading student assignments and exams.
+In Fall 2020, I served as an Undergraduate Teaching Assistant for EN.553.171 Discrete Mathematics, under the [Department of Applied Mathematics and Statistics](https://engineering.jhu.edu/ams/){:style="text-decoration: none"}{:target="_blank"}. I held teaching assistant responsibilities, including planning and leading weekly discussion sections, holding office hours, and grading student assignments and exams.
