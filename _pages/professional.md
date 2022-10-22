@@ -36,7 +36,7 @@ Feature in Technical.ly Newsletter: [Meet the local student-founders in the new 
 ## Johns Hopkins University 
 ---
 
-<span style="font-size:1.05em;">**[Delineo](https://covidweb.isi.jhu.edu/about){:style="text-decoration: none"}{:target="_blank"}**</span>  
+<span style="font-size:1.05em;">**[Delineo](https://covidweb.isi.jhu.edu/about){:style="text-decoration: none"}{:target="_blank"} - Disease Modeling Project**</span>  
 <span style="font-size:0.9em;">
 Founding member and co-lead of [Delineo](https://covidweb.isi.jhu.edu/about){:style="text-decoration: none"}{:target="_blank"}, dedicated to developing personalized prediction and interactive simulation models for the spread of COVID-19. I co-led a software development team of 17 multidisciplinary JHU students, where we leveraged machine learning methods to predict disease spread using census data and mobile geolocation data. 
   
