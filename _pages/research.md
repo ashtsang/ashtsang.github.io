@@ -41,6 +41,15 @@ Non-negative matrix factorization is well suited to high-throughput technology, 
 <span style="font-size:0.9em;">
 I created [PyCoGAPS](https://www.biorxiv.org/content/10.1101/2022.07.09.499398v1){:style="text-decoration: none"}{:target="_blank"}, a Python implementation of [CoGAPS](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03796-9){:style="text-decoration: none"}{:target="_blank"} which is a Bayesian NMF algorithm for gene set analysis. PyCoGAPS enahnces runtime for large datasets, and additional workflows I developed with Docker and GenePattern facilitate user-friendly interpretation and implementation of NMF for single-cell analyses. 
 
+## [Precision Care Medicine]([https://fertiglab.com/](https://sarmalab.icm.jhu.edu/courses/precision-care-medicine/)){:style="text-decoration: none"}{:target="_blank"} @ JHU 
+---
+ 
+<span style="font-size:1.05em;">**Background**</span>  
+<span style="font-size:0.9em;"> 
+Static ocular torsion assessment is an important clinical tool for identifying abnormalities in the vestibular-ocular-motor pathway, but current methods are time-intensive with steep learning curves.  
+<span style="font-size:1.05em;">**My work**</span>  
+<span style="font-size:0.9em;">
+I worked with a team of students to curate a synthetic, realistic dataset for static ocular torsion, and developed a classification model for assessing torsion from fundus images. We worked in collaboration with Johns Hopkins Hospital doctors and researchers Dr. Kemar Green, Dr. David Zee, Dr. Amir Kheradmand, Dr. Jorge Otero-Millan, and Dr. Alvin Liu.
 
 ## [Malone Center for Engineering in Healthcare](https://malonecenter.jhu.edu/){:style="text-decoration: none"}{:target="_blank"} @ JHU 
 ---
