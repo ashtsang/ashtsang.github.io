@@ -47,6 +47,7 @@ I created [PyCoGAPS](https://www.biorxiv.org/content/10.1101/2022.07.09.499398v1
 <span style="font-size:1.05em;">**Background**</span>  
 <span style="font-size:0.9em;"> 
 Static ocular torsion assessment is an important clinical tool for identifying abnormalities in the vestibular-ocular-motor pathway, but current methods are time-intensive with steep learning curves.  
+  
 <span style="font-size:1.05em;">**My work**</span>  
 <span style="font-size:0.9em;">
 I worked with a team of students to curate a synthetic, realistic dataset for static ocular torsion, and developed a classification model for assessing torsion from fundus images. We worked in collaboration with Johns Hopkins Hospital doctors and researchers Dr. Kemar Green, Dr. David Zee, Dr. Amir Kheradmand, Dr. Jorge Otero-Millan, and Dr. Alvin Liu.
