@@ -41,7 +41,7 @@ Non-negative matrix factorization is well suited to high-throughput technology, 
 <span style="font-size:0.9em;">
 I created [PyCoGAPS](https://www.biorxiv.org/content/10.1101/2022.07.09.499398v1){:style="text-decoration: none"}{:target="_blank"}, a Python implementation of [CoGAPS](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03796-9){:style="text-decoration: none"}{:target="_blank"} which is a Bayesian NMF algorithm for gene set analysis. PyCoGAPS enahnces runtime for large datasets, and additional workflows I developed with Docker and GenePattern facilitate user-friendly interpretation and implementation of NMF for single-cell analyses. 
 
-## [Precision Care Medicine]([https://fertiglab.com/](https://sarmalab.icm.jhu.edu/courses/precision-care-medicine/)){:style="text-decoration: none"}{:target="_blank"} @ JHU 
+## [Precision Care Medicine](https://sarmalab.icm.jhu.edu/courses/precision-care-medicine/){:style="text-decoration: none"}{:target="_blank"} @ JHU 
 ---
  
 <span style="font-size:1.05em;">**Background**</span>  
