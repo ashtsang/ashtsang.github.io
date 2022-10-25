@@ -50,7 +50,7 @@ Static ocular torsion assessment is an important clinical tool for identifying a
   
 <span style="font-size:1.05em;">**My work**</span>  
 <span style="font-size:0.9em;">
-I worked with a team of students to curate a synthetic, realistic dataset for static ocular torsion, and developed a classification model for assessing torsion from fundus images. We worked in collaboration with Johns Hopkins Hospital doctors and researchers Dr. Kemar Green, Dr. David Zee, Dr. Amir Kheradmand, Dr. Jorge Otero-Millan, and Dr. Alvin Liu.
+I worked with a team of students to curate a synthetic, realistic dataset for static ocular torsion, and developed a classification model for assessing torsion from fundus images. We worked in collaboration with Johns Hopkins Hospital neurologists and researchers.
 
 ## [Malone Center for Engineering in Healthcare](https://malonecenter.jhu.edu/){:style="text-decoration: none"}{:target="_blank"} @ JHU 
 ---
