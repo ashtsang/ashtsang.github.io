@@ -40,6 +40,6 @@ Chen Wang, Yunong Bai, **Ashley Tsang**, Yuhan Bian, Yifan Gou, Yan X. Lin, Matt
 <span style="font-size:0.9em;">
 Bibhav Poudel, Jacob Desman, Gohta Aihara, Deborah I Weidman, **Ashley Tsang**, Katherine Kovrizhkin, Tatiana Pereira, Siddharth Arun, Tejus Pradeep, Shababa Matin, Robert P Liddell  
 *Cancer Treatment and Research Communications, 2021*  
-[[Elsevier](https://www.sciencedirect.com/science/article/pii/S2468294221001660){:style="text-decoration: none"}{:target="_blank"}[PDF](https://www.sciencedirect.com/science/article/pii/S2468294221001660){:style="text-decoration: none"}{:target="_blank"}]   
-</span> 
+[[Elsevier](https://www.sciencedirect.com/science/article/pii/S2468294221001660){:style="text-decoration: none"}{:target="_blank"}] [[PDF](https://www.sciencedirect.com/science/article/pii/S2468294221001660){:style="text-decoration: none"}{:target="_blank"}]   
+</span>] 
 
