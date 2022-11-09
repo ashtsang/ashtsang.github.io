@@ -14,7 +14,7 @@ I am a Biomedical Engineering M.S.E. Candidate at [Johns Hopkins University](htt
 
 I am passionate about developing computational algorithms and tools that improve healthcare and medicine, particularly in advancing cancer research and care, and am interested in work that directly translates to clinical usage.
 
-Please feel free to send me an email if you'd like to chat more!
+Please feel free to send me an email if you'd like to chat!
 
 <br/><br/>
 
