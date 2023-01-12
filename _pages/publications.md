@@ -26,16 +26,17 @@ Jeanette Anna Irene Johnson(\*), **Ashley Tsang(\*)**, Jacob T Mitchell, Emily F
 *Under review at Nature Protocols, 2022*  
 [[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.07.09.499398){:style="text-decoration: none"}{:target="_blank"}] [[PDF](https://www.biorxiv.org/content/10.1101/2022.07.09.499398.full.pdf){:style="text-decoration: none"}{:target="_blank"}] [[Code](https://github.com/FertigLab/pycogaps){:style="text-decoration: none"}{:target="_blank"}]  
 (\*) indicates joint first authors
-
-<span style="font-size:1.05em;">**Deep Learning Model for Static Ocular Torsion Detection Using Synthetically Generated Fundus Images**</span>  
-<span style="font-size:0.9em;">
-Chen Wang, Yunong Bai, **Ashley Tsang**, Yuhan Bian, Yifan Gou, Yan X. Lin, Matthew Zhao, Tony Y. Wei, Jacob M. Desman, Casey Overby Taylor, Joseph L. Greenstein, Jorge Otero-Millan, Tin Yan Alvin Liu, Amir Kheradmand, David S. Zee, Kemar E. Green  
-*Under review at Translational Vision Science and Technology, 2022*  
-{% include base_path %}[[PDF](http://ashtsang.github.io/files/Deep Learning Model for Static Ocular Torsion Detection Using Synthetic Fundus Images.pdf){:style="text-decoration: none"}{:target="_blank"}]
+  
   
 
 ## Journal
 ---
+<span style="font-size:1.05em;">**Deep Learning Model for Static Ocular Torsion Detection Using Synthetically Generated Fundus Images**</span>  
+<span style="font-size:0.9em;">
+Chen Wang, Yunong Bai, **Ashley Tsang**, Yuhan Bian, Yifan Gou, Yan X. Lin, Matthew Zhao, Tony Y. Wei, Jacob M. Desman, Casey Overby Taylor, Joseph L. Greenstein, Jorge Otero-Millan, Tin Yan Alvin Liu, Amir Kheradmand, David S. Zee, Kemar E. Green  
+*Translational Vision Science and Technology, 2023*  
+{% include base_path %}[[TVST](https://tvst.arvojournals.org/article.aspx?articleid=2785277){:style="text-decoration: none"}{:target="_blank"}][[PDF](http://ashtsang.github.io/files/Deep Learning Model for Static Ocular Torsion Detection Using Synthetic Fundus Images.pdf){:style="text-decoration: none"}{:target="_blank"}]
+  
 <span style="font-size:1.05em;">**Adequacy of samples obtained via percutaneous core-needle rebiopsy for EGFR T790M molecular analysis in patients with non-small cell lung cancer following acquired resistance to first-line therapy: A systematic review and meta-analysis**</span>  
 <span style="font-size:0.9em;">
 Bibhav Poudel, Jacob Desman, Gohta Aihara, Deborah I Weidman, **Ashley Tsang**, Katherine Kovrizhkin, Tatiana Pereira, Siddharth Arun, Tejus Pradeep, Shababa Matin, Robert P Liddell  
