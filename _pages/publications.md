@@ -35,12 +35,12 @@ Jeanette Anna Irene Johnson(\*), **Ashley Tsang(\*)**, Jacob T Mitchell, Emily F
 <span style="font-size:0.9em;">
 Chen Wang, Yunong Bai, **Ashley Tsang**, Yuhan Bian, Yifan Gou, Yan X. Lin, Matthew Zhao, Tony Y. Wei, Jacob M. Desman, Casey Overby Taylor, Joseph L. Greenstein, Jorge Otero-Millan, Tin Yan Alvin Liu, Amir Kheradmand, David S. Zee, Kemar E. Green  
 *Translational Vision Science and Technology, 2023*  
-{% include base_path %}[[TVST](https://tvst.arvojournals.org/article.aspx?articleid=2785277){:style="text-decoration: none"}{:target="_blank"}][[PDF](http://ashtsang.github.io/files/Deep Learning Model for Static Ocular Torsion Detection.pdf){:style="text-decoration: none"}{:target="_blank"}]
+{% include base_path %}[[Journal](https://tvst.arvojournals.org/article.aspx?articleid=2785277){:style="text-decoration: none"}{:target="_blank"}][[PDF](http://ashtsang.github.io/files/Deep Learning Model for Static Ocular Torsion Detection.pdf){:style="text-decoration: none"}{:target="_blank"}]
   
 <span style="font-size:1.05em;">**Adequacy of samples obtained via percutaneous core-needle rebiopsy for EGFR T790M molecular analysis in patients with non-small cell lung cancer following acquired resistance to first-line therapy: A systematic review and meta-analysis**</span>  
 <span style="font-size:0.9em;">
 Bibhav Poudel, Jacob Desman, Gohta Aihara, Deborah I Weidman, **Ashley Tsang**, Katherine Kovrizhkin, Tatiana Pereira, Siddharth Arun, Tejus Pradeep, Shababa Matin, Robert P Liddell  
 *Cancer Treatment and Research Communications, 2021*  
-[[Elsevier](https://www.sciencedirect.com/science/article/pii/S2468294221001660){:style="text-decoration: none"}{:target="_blank"}] [[PDF](https://www.sciencedirect.com/science/article/pii/S2468294221001660){:style="text-decoration: none"}{:target="_blank"}]   
+[[Journal](https://www.sciencedirect.com/science/article/pii/S2468294221001660){:style="text-decoration: none"}{:target="_blank"}] [[PDF](https://www.sciencedirect.com/science/article/pii/S2468294221001660){:style="text-decoration: none"}{:target="_blank"}]   
 </span> 
 
