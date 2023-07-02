@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ashley Tsang's Homepage"
 title_separator          : "-"
 name                     : &name "Ashley Tsang's Homepage"
-description              : &description "BME MSE Candidate at Johns Hopkins University"
+description              : &description "Bioinformatics PhD Student at Univeristy of Michigan"
 url                      : https://ashtsang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ashtsang.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ashley Tsang"
   avatar           : "profile.jpg" 
-  bio              : "BME MSE Candidate at Johns Hopkins University"
-  location         : "Baltimore, MD"
+  bio              : "Bioinformatics PhD Student at Univeristy of Michigan"
+  location         : "Ann Arbor, MI"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=NZSBQ0kAAAAJ"
-  email            : "atsang5@jhu.edu"
+  email            : "ashtsang@umich.edu"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "ashleytsangg"
+  linkedin         : "ashtsang"
   orcid            : 
   pinterest        :
   soundcloud       :
