@@ -29,6 +29,6 @@ Robert Liddell, Deborah Weidman, **Ashley Tsang**, Gohta Aihara, Tatiana Pereira
 <span style="font-size:1.05em;">**Inferring cellular and molecular processes in single-cell data with non-negative matrix factorization using Python, R, and GenePattern Notebook implementations of CoGAPS**</span>  
 <span style="font-size:0.9em;">
 Jeanette Anna Irene Johnson(\*), **Ashley Tsang(\*)**, Jacob T Mitchell, Emily F Davis-Marcisak, Thomas Sherman, Ted Liefeld, Melanie Loth, Loyal Goff, Jacquelyn Zimmerman, Ben Kinny-Köster, Elizabeth Jaffee, Pablo Tamayo, Jill Mesirov, Michael Reich, Elana J Fertig, Genevieve L Stein-O'Brien  
-*Under review at Nature Protocols, 2022*  
+*Accepted at Nature Protocols, 2023*  
 [[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.07.09.499398){:style="text-decoration: none"}{:target="_blank"}] [[PDF](https://www.biorxiv.org/content/10.1101/2022.07.09.499398.full.pdf){:style="text-decoration: none"}{:target="_blank"}] [[Code](https://github.com/FertigLab/pycogaps){:style="text-decoration: none"}{:target="_blank"}]  
 (\*) indicates joint first authors  
