@@ -24,7 +24,7 @@ Please feel free to reach out if you'd like to chat!
 <span style="font-size:0.9em;">
 Jeanette A I Johnson(\*), **Ashley P Tsang(\*)**, Jacob T Mitchell, Emily F Davis-Marcisak, Thomas Sherman, Ted Liefeld, Melanie Loth, Loyal Goff, Jacquelyn Zimmerman, Ben Kinny-Köster, Elizabeth Jaffee, Pablo Tamayo, Jill Mesirov, Michael Reich, Elana J Fertig, Genevieve L Stein-O'Brien  
 *Nature Protocols, 2023*  
-[[Nature Protocols](https://www.nature.com/articles/s41596-023-00892-x){:style="text-decoration: none"}{:target="_blank"}] [[PDF](https://www.nature.com/articles/s41596-023-00892-x.pdf){:style="text-decoration: none"}{:target="_blank"}] [[Code](https://github.com/FertigLab/pycogaps){:style="text-decoration: none"}{:target="_blank"}]  
+[[Journal](https://www.nature.com/articles/s41596-023-00892-x){:style="text-decoration: none"}{:target="_blank"}] [[PDF](https://www.nature.com/articles/s41596-023-00892-x.pdf){:style="text-decoration: none"}{:target="_blank"}] [[Code](https://github.com/FertigLab/pycogaps){:style="text-decoration: none"}{:target="_blank"}]  
 (\*) indicates joint first authors  
 
 ---  
