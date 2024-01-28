@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Hello! I am a first-yer PhD student in the Bioinformatics program at the [University of Michigan](https://umich.edu/){:style="text-decoration: none"}{:target="_blank"}. Previously, I attended [Johns Hopkins University](https://www.jhu.edu){:style="text-decoration: none"}{:target="_blank"}, where I obtained a B.S. in Biomedical Engineering and Computer Science, and M.S.E in Biomedical Engineering.
+Hello! I am a first-year PhD student in the Bioinformatics program at the [University of Michigan](https://umich.edu/){:style="text-decoration: none"}{:target="_blank"}. Previously, I attended [Johns Hopkins University](https://www.jhu.edu){:style="text-decoration: none"}{:target="_blank"}, where I obtained a B.S. in Biomedical Engineering and Computer Science, and M.S.E in Biomedical Engineering.
 
 My research interests lie in developing methods that leverage multi-modal biological data to improve cancer research and treatment.
 
