@@ -10,11 +10,11 @@ redirect_from:
 
 
 
-Hello! I am a first-year PhD student in the Bioinformatics program at the [University of Michigan](https://umich.edu/){:style="text-decoration: none"}{:target="_blank"}. Previously, I attended [Johns Hopkins University](https://www.jhu.edu){:style="text-decoration: none"}{:target="_blank"}, where I obtained a B.S. in Biomedical Engineering and Computer Science, and M.S.E in Biomedical Engineering.
+Hello! I am a second-year PhD student in the [Department of Computational Medicine and Bioinformatics at the University of Michigan](https://medschool.umich.edu/departments/computational-medicine-bioinformatics){:style="text-decoration: none"}{:target="_blank"}. Previously, I attended [Johns Hopkins University](https://www.jhu.edu){:style="text-decoration: none"}{:target="_blank"}, where I obtained a B.S. in Biomedical Engineering and Computer Science, and M.S.E in Biomedical Engineering.
 
-My research interests lie in developing methods that leverage multi-modal biological data to improve cancer research and treatment.
+My research focus lies in developing multi-modal and spatial informatics methods for understanding the tumor microenvironment and drivers of response to therapies.
 
-Please feel free to reach out if you'd like to chat!
+Please reach out if you'd like to chat further!
 
 <br/><br/>
 
