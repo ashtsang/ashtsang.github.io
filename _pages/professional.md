@@ -13,7 +13,7 @@ Co-founder and lead of [PneuTech](http://www.pneutechmed.com/){:style="text-deco
 
 <span style="font-size:1.05em;">**Background**</span>  
 <span style="font-size:0.9em;">
-I co-founded PneuTech in Fall 2019 along with a team of 7 biomedical engineering students as part of the [JHU Biomedical Engineering Undergraduate Design Team Program](https://www.bme.jhu.edu/academics/bme-design/undergraduate-design-team/){:style="text-decoration: none"}{:target="_blank"}. We were approached by [Dr. Robert Liddell](https://www.hopkinsmedicine.org/profiles/details/robert-liddell){:style="text-decoration: none"}{:target="_blank"}, an interventional radiologist from [Johns Hopkins Hospital](https://www.hopkinsmedicine.org/the_johns_hopkins_hospital/){:style="text-decoration: none"}{:target="_blank"}, who was facing challenges with the current standard of care biopsy needle and procedure. Since completing the Design Team Program in Spring 2020, we spun out to become PneuTech, and have since raised over $60k in non-dilutive funding and are on track for completing animal studies in 2023.
+I co-founded PneuTech in Fall 2019 along with a team of 7 biomedical engineering students as part of the [JHU Biomedical Engineering Undergraduate Design Team Program](https://www.bme.jhu.edu/academics/bme-design/undergraduate-design-team/){:style="text-decoration: none"}{:target="_blank"}. We were approached by [Dr. Robert Liddell](https://www.hopkinsmedicine.org/profiles/details/robert-liddell){:style="text-decoration: none"}{:target="_blank"}, an interventional radiologist from [Johns Hopkins Hospital](https://www.hopkinsmedicine.org/the_johns_hopkins_hospital/){:style="text-decoration: none"}{:target="_blank"}, who was facing challenges with the current standard of care biopsy needle and procedure. Since completing the Design Team Program in Spring 2020, we spun out to become PneuTech, and have since raised over $60k in non-dilutive funding and are on track for completing animal studies in 2025.
 
 <span style="font-size:1.05em;">**Achievements**</span>  
 <span style="font-size:0.9em;">
@@ -28,9 +28,10 @@ I co-founded PneuTech in Fall 2019 along with a team of 7 biomedical engineering
 
 <span style="font-size:1.05em;">**Links and Press**</span>  
 <span style="font-size:0.9em;">
+Featured as a runner-up in RealLIST Startups 2024: [RealLIST Startups 2024: Discover the 20 Baltimore startups shaping tomorrow’s entrepreneurial landscape](https://technical.ly/startups/reallist-startups-baltimore-2024/){:style="text-decoration: none"}{:target="_blank"}
 Elevator Pitch: [Watch the 2022 RBPC Mercury Elevator Pitch Competition](https://www.youtube.com/watch?v=F1WtfAWSkyQ&list=PLci14wOQWQgc8iP-cq7g6lKtA1gEYqD18&index=32){:style="text-decoration: none"}{:target="_blank"}  
 Introduction Animation: [Watch the 1st Place Fall 2019 Design Team Video](https://youtu.be/uJuxu9JJKd0){:style="text-decoration: none"}{:target="_blank"}  
-Feature in Technical.ly Newsletter: [Meet the local student-founders in the new Innovators of Progress cohort](https://technical.ly/startups/innovators-of-progress-cohort/){:style="text-decoration: none"}{:target="_blank"}  
+Personal feature in Technical.ly Newsletter: [Meet the local student-founders in the new Innovators of Progress cohort](https://technical.ly/startups/innovators-of-progress-cohort/){:style="text-decoration: none"}{:target="_blank"}  
 
   
 ## Johns Hopkins University 
