@@ -10,11 +10,11 @@ author_profile: true
 
 <span style="font-size:1.05em;">**Background**</span>  
 <span style="font-size:0.9em;"> 
-Characterizing the tumor immune microenvironment is essential for understanding the mechanisms of cancer progression and immune response. The development of spatially resolved technologies has revolutionized our ability to study the TME, necessitating the development of methods that can quantify and discover biomarkers of disease.
+Characterizing the tumor immune microenvironment is essential for understanding the mechanisms of cancer progression and immune response. The development of spatially resolved technologies has revolutionized our ability to study the TME, necessitating the development of methods that can integrate spatial and cellular data to provide a comprehensive understanding of cell dynamics and drivers of response.
   
 <span style="font-size:1.05em;">**My work**</span>  
 <span style="font-size:0.9em;">
-I am developing deep learning algorithms and a workflow for instance segmentation of immune cells and tissue subtypes in histopathology slides, with only sparse labels available. Specifically, we are collaborating with pathologists from Johns Hopkins Hospital to analyze precursor lesions of ovarian cancer.  
+I am developing multi-modal and spatial informatics methods to quantify the dynamics of the TME and discover biomarkers of response to treatment regimens. I am leveraging data such as spatial transcriptomics, multiplex immunofluorescence, and single-cell data in conjunction with methods in deep learning and statistics. 
 
 ## [Wirtz/Wu Lab](https://wirtzlab.johnshopkins.edu/){:style="text-decoration: none"}{:target="_blank"} @ JHU 
 ---
@@ -25,7 +25,7 @@ Assessing histopathology slides is critical for diagnosing and researching cance
   
 <span style="font-size:1.05em;">**My work**</span>  
 <span style="font-size:0.9em;">
-I am developing deep learning algorithms and a workflow for instance segmentation of immune cells and tissue subtypes in histopathology slides, with only sparse labels available. Specifically, we are collaborating with pathologists from Johns Hopkins Hospital to analyze precursor lesions of ovarian cancer.  
+I developed a workflow for instance segmentation of immune cells and tissue subtypes in histopathology slides, with only sparse labels available. I collaborated with pathologists from Johns Hopkins Hospital to analyze precursor lesions of ovarian cancer.  
 
 
 ## [Fertig Lab](https://fertiglab.com/){:style="text-decoration: none"}{:target="_blank"} & [Stein-O'Brien Lab](http://www.steinobrienlab.org/){:style="text-decoration: none"}{:target="_blank"} @ JHU 
