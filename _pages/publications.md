@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=NZSBQ0kAAAAJ){:style="text-decoration: none"}{:target="_blank"}.  
+You may also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=NZSBQ0kAAAAJ){:style="text-decoration: none"}{:target="_blank"}.  
 
 
 ## Patent
@@ -13,10 +13,17 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 <span style="font-size:1.05em;">**Biopsy Needle Accessory**</span>  
 <span style="font-size:0.9em;">
 Robert Liddell, Deborah Weidman, **Ashley Tsang**, Gohta Aihara, Tatiana Pereira, Bibhav Poudel, Jacob Desman, Katherine Kovrizhkin, Sean Darcy, Jinghua Zhang, Shababa Matin    
-*PCT US2022/077146, filed Sept. 29, 2022. Patent Pending.*  
+*PCT US2022/077146, filed Sept. 29, 2022.*  
 
 ## Journal
 ---
+<span style="font-size:1.05em;">**Assessing the tumor immune landscape across multiple spatial scales to differentiate immunotherapy response in metastatic non-small cell lung cancer**</span>  
+<span style="font-size:0.9em;">
+**Ashley P Tsang(\*)**, Santhoshi N Krishnan(\*), Joel N Eliason(\*), Jake J McGue, Angel Qin, Timothy L Frankel, Arvind Rao  
+*Laboratory Investigation, 2024*  
+[[Journal](https://laboratoryinvestigation.org/article/S0023-6837(24)01826-9/fulltext){:style="text-decoration: none"}{:target="_blank"}]
+(\*) indicates joint first authors  
+
 <span style="font-size:1.05em;">**Inferring cellular and molecular processes in single-cell data with non-negative matrix factorization using Python, R, and GenePattern Notebook implementations of CoGAPS**</span>  
 <span style="font-size:0.9em;">
 Jeanette A I Johnson(\*), **Ashley P Tsang(\*)**, Jacob T Mitchell, Emily F Davis-Marcisak, Thomas Sherman, Ted Liefeld, Melanie Loth, Loyal Goff, Jacquelyn Zimmerman, Ben Kinny-Köster, Elizabeth Jaffee, Pablo Tamayo, Jill Mesirov, Michael Reich, Elana J Fertig, Genevieve L Stein-O'Brien  
