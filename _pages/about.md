@@ -24,7 +24,7 @@ Please reach out if you'd like to chat further!
 <span style="font-size:0.9em;">
 **Ashley P Tsang(\*)**, Santhoshi N Krishnan(\*), Joel N Eliason(\*), Jake J McGue, Angel Qin, Timothy L Frankel, Arvind Rao  
 *Laboratory Investigation, 2024*  
-[[Journal](https://laboratoryinvestigation.org/article/S0023-6837(24)01826-9/fulltext){:style="text-decoration: none"}{:target="_blank"}]
+[[Journal](https://laboratoryinvestigation.org/article/S0023-6837(24)01826-9/fulltext){:style="text-decoration: none"}{:target="_blank"}]  
 (\*) indicates joint first authors  
 
 ---  
