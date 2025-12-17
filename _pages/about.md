@@ -10,9 +10,9 @@ redirect_from:
 
 
 
-Hello! I am a third-year Bioinformatics PhD student in the [Department of Computational Medicine and Bioinformatics at the University of Michigan](https://medschool.umich.edu/departments/computational-medicine-bioinformatics){:style="text-decoration: none"}{:target="_blank"}. Previously, I studied at [Johns Hopkins University](https://www.jhu.edu){:style="text-decoration: none"}{:target="_blank"}, where I obtained a B.S. in Biomedical Engineering and Computer Science, and M.S.E in Biomedical Engineering.
+Hello! I am a third-year Bioinformatics PhD Candidate in the [Department of Computational Medicine and Bioinformatics at the University of Michigan](https://medschool.umich.edu/departments/computational-medicine-bioinformatics){:style="text-decoration: none"}{:target="_blank"}. Previously, I studied at [Johns Hopkins University](https://www.jhu.edu){:style="text-decoration: none"}{:target="_blank"}, where I obtained a B.S. in Biomedical Engineering and Computer Science, and M.S.E in Biomedical Engineering.
 
-My research focus lies in developing multi-modal and spatial informatics methods for understanding the tumor microenvironment and drivers of response to therapies.
+My research interest lies at the intersection of AI and biology. Specifically, I'm passionate about on developing AI-driven approaches to multi-modal data in order to characterize the tumor microenvironment and identify key drivers of cancer development and therapeutic response.
 
 Please reach out if you'd like to chat further!
 
