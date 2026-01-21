@@ -17,6 +17,12 @@ Robert Liddell, Deborah Weidman, **Ashley Tsang**, Gohta Aihara, Tatiana Pereira
 
 ## Journal
 ---
+<span style="font-size:1.05em;">**Encoding functional edges in graphs to model spatially varying relationships in the tumor microenvironment**</span>  
+<span style="font-size:0.9em;">
+**Ashley P Tsang(\*)**, Santhoshi N Krishnan(\*), Reva Kulkarni, Sagnik Bhadury, Marina Pasca di Magliano, Timothy L Frankel, Arvind Rao  
+*Accepted to npj Artificial Intelligence, 2026*  
+(\*) indicates joint first authors 
+
 <span style="font-size:1.05em;">**Assessing the tumor immune landscape across multiple spatial scales to differentiate immunotherapy response in metastatic non-small cell lung cancer**</span>  
 <span style="font-size:0.9em;">
 **Ashley P Tsang(\*)**, Santhoshi N Krishnan(\*), Joel N Eliason(\*), Jake J McGue, Angel Qin, Timothy L Frankel, Arvind Rao  
