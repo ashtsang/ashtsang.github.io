@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ashley Tsang"
+title: "Ashley P. Tsang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
