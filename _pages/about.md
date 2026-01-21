@@ -14,11 +14,19 @@ Hello! I am a third-year Bioinformatics PhD Candidate in the [Department of Comp
 
 My research interest lies at the intersection of AI and biology. Specifically, I'm passionate about developing AI-driven approaches to multi-modal data in order to characterize the tumor microenvironment and identify key drivers of cancer development and therapeutic response.
 
-Please reach out if you'd like to chat further!
+Please feel free to reach out if you'd like to chat further!
 
 <br/><br/>
 
 ## Selected Publications
+
+<span style="font-size:1.05em;">**Encoding functional edges in graphs to model spatially varying relationships in the tumor microenvironment**</span>  
+<span style="font-size:0.9em;">
+**Ashley P Tsang(\*)**, Santhoshi N Krishnan(\*), Reva Kulkarni, Sagnik Bhadury, Marina Pasca di Magliano, Timothy L Frankel, Arvind Rao  
+*Accepted to npj Artificial Intelligence, 2026*  
+(\*) indicates joint first authors  
+
+---
 
 <span style="font-size:1.05em;">**Assessing the tumor immune landscape across multiple spatial scales to differentiate immunotherapy response in metastatic non-small cell lung cancer**</span>  
 <span style="font-size:0.9em;">
@@ -36,11 +44,5 @@ Jeanette A I Johnson(\*), **Ashley P Tsang(\*)**, Jacob T Mitchell, Emily F Davi
 [[Journal](https://www.nature.com/articles/s41596-023-00892-x){:style="text-decoration: none"}{:target="_blank"}][[Code](https://github.com/FertigLab/pycogaps){:style="text-decoration: none"}{:target="_blank"}]  
 (\*) indicates joint first authors  
 
----  
-
-<span style="font-size:1.05em;">**Biopsy Needle Accessory**</span>  
-<span style="font-size:0.9em;">
-Robert Liddell, Deborah Weidman, **Ashley Tsang**, Gohta Aihara, Tatiana Pereira, Bibhav Poudel, Jacob Desman, Katherine Kovrizhkin, Sean Darcy, Jinghua Zhang, Shababa Matin      
-*PCT US2022/077146, filed Sept. 29, 2022.*  
   
 
