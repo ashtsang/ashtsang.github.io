@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ashley Tsang's Homepage"
+title                    : "Ashley P. Tsang's Homepage"
 title_separator          : "-"
-name                     : &name "Ashley Tsang's Homepage"
+name                     : &name "Ashley P. Tsang's Homepage"
 description              : &description "Bioinformatics PhD Student at Univeristy of Michigan"
 url                      : https://ashtsang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
