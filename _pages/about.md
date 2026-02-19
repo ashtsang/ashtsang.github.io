@@ -10,9 +10,9 @@ redirect_from:
 
 
 
-Hello! I am a third-year Bioinformatics PhD Candidate in the [Department of Computational Medicine and Bioinformatics at the University of Michigan](https://medschool.umich.edu/departments/computational-medicine-bioinformatics){:style="text-decoration: none"}{:target="_blank"}. Previously, I studied at [Johns Hopkins University](https://www.jhu.edu){:style="text-decoration: none"}{:target="_blank"}, where I obtained a B.S. in Biomedical Engineering and Computer Science, and M.S.E in Biomedical Engineering.
+Hello! I am a third-year Bioinformatics PhD Candidate at the [University of Michigan](https://medschool.umich.edu/departments/computational-medicine-bioinformatics){:style="text-decoration: none"}{:target="_blank"}, advised by Prof. [Arvind Rao](https://sph.umich.edu/faculty-profiles/rao-arvind.html){:style="text-decoration: none"}{:target="_blank"}. Previously, I obtained my Bachelor's degree in BME & CS and Master's degree in BME from [Johns Hopkins University](https://www.jhu.edu){:style="text-decoration: none"}{:target="_blank"}. While there, I was fortunate to work with Prof. [Elana Fertig](https://fertiglab.github.io/){:style="text-decoration: none"}{:target="_blank"} and Prof. [Denis Wirtz](https://wirtzlab.johnshopkins.edu/){:style="text-decoration: none"}{:target="_blank"}.
 
-My research interest lies at the intersection of AI and biology. Specifically, I'm passionate about developing AI-driven approaches to multi-modal data in order to characterize the tumor microenvironment and identify key drivers of cancer development and therapeutic response.
+My research interest lies at the intersection of AI and biology. I'm passionate about developing computational methods to study the spatial organization of cancer, particularly leveraging spatial multi-omics to characterize the tumor microenvironment and identify novel biomarkers of disease.
 
 Please feel free to reach out if you'd like to chat further!
 
