@@ -25,7 +25,8 @@ Please feel free to reach out if you'd like to chat further!
 <span style="font-size:1.05em;">**Encoding functional edges in graphs to model spatially varying relationships in the tumor microenvironment**</span>  
 <span style="font-size:0.9em;">
 **Ashley P Tsang(\*)**, Santhoshi N Krishnan(\*), Reva Kulkarni, Sagnik Bhadury, Marina Pasca di Magliano, Timothy L Frankel, Arvind Rao  
-*Accepted to npj Artificial Intelligence, 2026*  
+*npj Artificial Intelligence, 2026*  
+[[Journal](https://doi.org/10.1038/s44387-026-00075-5){:style="text-decoration: none"}{:target="_blank"}]
 (\*) indicates joint first authors  
 
 ---
@@ -34,7 +35,7 @@ Please feel free to reach out if you'd like to chat further!
 <span style="font-size:0.9em;">
 **Ashley P Tsang(\*)**, Santhoshi N Krishnan(\*), Joel N Eliason(\*), Jake J McGue, Angel Qin, Timothy L Frankel, Arvind Rao  
 *Laboratory Investigation, 2024*  
-[[Journal](https://laboratoryinvestigation.org/article/S0023-6837(24)01826-9/fulltext){:style="text-decoration: none"}{:target="_blank"}]  
+[[Journal](https://doi.org/10.1016/j.labinv.2024.102148){:style="text-decoration: none"}{:target="_blank"}]  
 (\*) indicates joint first authors  
 
 ---  
@@ -43,7 +44,7 @@ Please feel free to reach out if you'd like to chat further!
 <span style="font-size:0.9em;">
 Jeanette A I Johnson(\*), **Ashley P Tsang(\*)**, Jacob T Mitchell, Emily F Davis-Marcisak, Thomas Sherman, Ted Liefeld, Melanie Loth, Loyal Goff, Jacquelyn Zimmerman, Ben Kinny-Köster, Elizabeth Jaffee, Pablo Tamayo, Jill Mesirov, Michael Reich, Elana J Fertig, Genevieve L Stein-O'Brien  
 *Nature Protocols, 2023*  
-[[Journal](https://www.nature.com/articles/s41596-023-00892-x){:style="text-decoration: none"}{:target="_blank"}][[Code](https://github.com/FertigLab/pycogaps){:style="text-decoration: none"}{:target="_blank"}]  
+[[Journal](https://doi.org/10.1038/s41596-023-00892-x){:style="text-decoration: none"}{:target="_blank"}][[Code](https://github.com/FertigLab/pycogaps){:style="text-decoration: none"}{:target="_blank"}]  
 (\*) indicates joint first authors  
 
   
