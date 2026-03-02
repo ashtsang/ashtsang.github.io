@@ -26,7 +26,7 @@ Please feel free to reach out if you'd like to chat further!
 <span style="font-size:0.9em;">
 **Ashley P Tsang(\*)**, Santhoshi N Krishnan(\*), Reva Kulkarni, Sagnik Bhadury, Marina Pasca di Magliano, Timothy L Frankel, Arvind Rao  
 *npj Artificial Intelligence, 2026*  
-[[Journal](https://doi.org/10.1038/s44387-026-00075-5){:style="text-decoration: none"}{:target="_blank"}]
+[[Journal](https://doi.org/10.1038/s44387-026-00075-5){:style="text-decoration: none"}{:target="_blank"}]  
 (\*) indicates joint first authors  
 
 ---
