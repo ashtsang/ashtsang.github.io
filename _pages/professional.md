@@ -21,14 +21,14 @@ I co-founded PneuTech in Fall 2019 along with a team of 7 biomedical engineering
 [VentureWell E-Team Program](https://venturewell.org/){:style="text-decoration: none"}{:target="_blank"} 2022 Spring Cohort.  
 [University of Minnesota Design of Medical Devices Conference](https://dmd.umn.edu/){:style="text-decoration: none"}{:target="_blank"} Emerging Medical Innovation Valuation 2022 Finalists.  
 [Draper Competition](https://www.smith.edu/academics/conway-center/entrepreneurship/draper-competition){:style="text-decoration: none"}{:target="_blank"} 2021 & 2022 Semi-Finalists.  
-[Carnegie Mellon University Venture Challenge](https://www.cmuvc.com/){:style="text-decoration: none"}{:target="_blank"} 2021 1st Place Winner.  
+[Carnegie Mellon University Venture Challenge](https://www.cmuventurechallenge.com/){:style="text-decoration: none"}{:target="_blank"} 2021 1st Place Winner.  
 [Johns Hopkins Business Plan Competition](https://hopstart.jhu.edu/){:style="text-decoration: none"}{:target="_blank"} 2021 2nd Place Winner.  
 [Johns Hopkins FastForward Fuel Demo Day](https://ventures.jhu.edu/programs-services/fastforward-u/){:style="text-decoration: none"}{:target="_blank"} 2021 Runner-Up Winner.  
 [Innovators of Progress](https://innovatorsofprogress.org/){:style="text-decoration: none"}{:target="_blank"} 2021 Cohort.  
 
 <span style="font-size:1.05em;">**Links and Press**</span>  
 <span style="font-size:0.9em;">
-Featured as a runner-up in RealLIST Startups 2024: [RealLIST Startups 2024: Discover the 20 Baltimore startups shaping tomorrow’s entrepreneurial landscape](https://technical.ly/startups/reallist-startups-baltimore-2024/){:style="text-decoration: none"}{:target="_blank"}
+Featured as a runner-up in RealLIST Startups 2024: [RealLIST Startups 2024: Discover the 20 Baltimore startups shaping tomorrow’s entrepreneurial landscape](https://technical.ly/startups/reallist-startups-baltimore-2024/){:style="text-decoration: none"}{:target="_blank"}  
 Elevator Pitch: [Watch the 2022 RBPC Mercury Elevator Pitch Competition](https://www.youtube.com/watch?v=F1WtfAWSkyQ&list=PLci14wOQWQgc8iP-cq7g6lKtA1gEYqD18&index=32){:style="text-decoration: none"}{:target="_blank"}  
 Introduction Animation: [Watch the 1st Place Fall 2019 Design Team Video](https://youtu.be/uJuxu9JJKd0){:style="text-decoration: none"}{:target="_blank"}  
 Personal feature in Technical.ly Newsletter: [Meet the local student-founders in the new Innovators of Progress cohort](https://technical.ly/startups/innovators-of-progress-cohort/){:style="text-decoration: none"}{:target="_blank"}  
